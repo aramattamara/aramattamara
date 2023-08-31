@@ -29,6 +29,10 @@ I am a full-stack software engineer experienced in React  with a background in b
 [Front-end](https://github.com/aramattamara/Conversation-Insights) | [Back-End](https://github.com/aramattamara/Conversation-Insights/blob/main/api_calls.py) | [Demo](https://www.youtube.com/watch?feature=player_embedded&v=rgt0_Jm-muE) | [Live App]()
 The Conversation Insights finds trends from Telegram messages.
 
+**📈 Currency convertor**    
+[Front-end](https://github.com/aramattamara/currency_convertor) | [Live App](https://aramattamara.github.io/currency_convertor/)
+Currency convertor React app.
+
 ## Get in Touch
 [Website](https://aramattamara.com/) | [LinkedIn](https://www.linkedin.com/in/aramattamara/) | [Medium](https://medium.com/@aramattamara)
 
