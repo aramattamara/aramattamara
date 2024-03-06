@@ -7,7 +7,8 @@ I'm proactive developer with experience in programming in Python, Javascript. I 
 I'm looking for a remote fulltime job as Full-Stack or Front-End Engineer.
 
 ## Currently Doing
-I'm currently working on Live Music Project. I'm also practicing my algorithms and data structures in Python. 
+I'm currently working on [Live Music Project](https://www.livemusicproject.org/). I'm also practicing my algorithms and data structures in Python. 
+Mentoring students at [Code the Dream](https://codethedream.org/)
 
 In addition, I'm learning the basis of cybersecurity while completing a certification program by Google in Coursera. Moreover, I just started another program to get a certification in AWS.
 
