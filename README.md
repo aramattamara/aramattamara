@@ -14,8 +14,8 @@ In addition, I'm learning the basis of cybersecurity while completing a certific
 
 ## Contact Information
 
-📫 lazerkatamara@gmail.com
+📩 lazerkatamara@gmail.com
 
-👥 [LinkedIn Profile](https://www.linkedin.com/in/aramattamara/)
+🖇️ [LinkedIn Profile](https://www.linkedin.com/in/aramattamara/)
 
 🌎 [Personal Site](https://www.aramattamara.com/)
